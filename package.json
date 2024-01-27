@@ -1,0 +1,14 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "portfolio game",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "léandre coussy",
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "^3.70.0"
+  }
+}
